@@ -19,8 +19,8 @@ Poniżej mamy przykład startowej struktury pliku html
 > W edytorze Visual Studio Code w pustym pliku html strukturę startową można w szybki sposób wygenerować wpisując **!** i klawisz Tab
 
 Dokument składa się z dwóch podstawowych części:
-- Head pomiędzy znacznikami ```<head> </head>``` gdzie wpisujemy informacje dla przeglądarki.
-- Body pomiędzy znacznikami ```<body> </body>``` gdzie wpisujemy zawartość strony.
+- Head pomiędzy znacznikami ```<head> </head>``` gdzie wpisujemy informacje dla przeglądarki. Występują tam znaczniki ```<meta>```oznaczające metadane wpisywane w atrybutach tych znaczników np. ```charset="UTF-8"``` oznaczający rodzaj stosowanej tablicy znaków.
+- Body pomiędzy znacznikami ```<body> </body>``` gdzie wpisujemy zawartość strony. Tam będą znaczniki wraz z zawartością.
 
 
 
