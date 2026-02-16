@@ -1,7 +1,7 @@
 # html
 
 Język HTML to język, który za pomocą **znaczników**, inaczej zwanych **tagami**, opisuje strukturę strony i jej zawartość.
-
+Poniżej mamy przykład startowej struktury pliku html
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -15,3 +15,13 @@ Język HTML to język, który za pomocą **znaczników**, inaczej zwanych **taga
 </body>
 </html>
 ```
+> [!TIP]
+> W edytorze Visual Studio Code w pustym pliku html strukturę startową można w szybki sposób wygenerować wpisując **!** i klawisz Tab
+
+Dokument składa się z dwóch podstawowych części:
+- Head pomiędzy znacznikami ```<head> </head>``` gdzie wpisujemy informacje dla przeglądarki.
+- Body pomiędzy znacznikami ```<body> </body>``` gdzie wpisujemy zawartość strony.
+
+
+
+
